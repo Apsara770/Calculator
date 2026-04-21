@@ -5,7 +5,7 @@ A simple and responsive Calculator App built using **HTML, CSS, and JavaScript**
 ---
 
 ## 🚀 Live Demo
-🌍 https://yourusername.github.io/calculator-app
+🌍 https://apsara770.github.io/Calculator/
 
 ---
 
